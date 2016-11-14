@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="componentes botones/btn_rompeta la cabeza" itemID="5829e193-00000c62" symbolType="button" lastModified="1479139731">
+  <timeline>
+    <DOMTimeline name="btn_rompeta la cabeza">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Recurso 12_rompete la cabeza.svg" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.1" ty="-2.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200.85" y="61"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

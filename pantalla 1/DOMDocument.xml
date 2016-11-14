@@ -1,6 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" currentTimeline="1" xflVersion="2.8" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 16.0 build 112" majorVersion="16" buildNumber="112" viewAngle3D="88.2079048186946" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C">
      <folders>
-          <DOMFolderItem name="componentes clip de pelicula" itemID="5829dd2a-000006a7"/>
+          <DOMFolderItem name="componentes botones" itemID="5829e17c-00000c4b" isExpanded="true"/>
+          <DOMFolderItem name="componentes clip de pelicula" itemID="5829dd2a-000006a7" isExpanded="true"/>
           <DOMFolderItem name="Recurso 10_consola.svg Activos" itemID="5829dc4c-000003b5"/>
           <DOMFolderItem name="Recurso 10_consola.svg Activos/Layer 1" itemID="5829dc4c-000003b6"/>
           <DOMFolderItem name="Recurso 11_cubo.svg Activos" itemID="5829dc50-000003bb"/>
@@ -19,9 +20,14 @@
           <DOMFolderItem name="Recurso 29_boton regresar.svg Activos/Layer 1" itemID="5829dc76-0000059b"/>
      </folders>
      <media>
-          <DOMBitmapItem name="Recurso 11_cubo.svg Activos/Layer 1/&lt;Image&gt;" itemID="5829dc50-000003c5" sourceExternalFilepath="./LIBRARY/Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Image&amp;#062" sourceLastImported="1479138384" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Image&amp;#062" bitmapDataHRef="M 1 1479138384.dat" frameRight="3520" frameBottom="2400"/>
+          <DOMBitmapItem name="Recurso 11_cubo.svg Activos/Layer 1/&lt;Image&gt;" itemID="5829dc50-000003c5" sourceExternalFilepath="../pantalla 1/LIBRARY/Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Image&amp;#062" sourceLastImported="1479138384" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Image&amp;#062" bitmapDataHRef="M 1 1479138384.dat" frameRight="3520" frameBottom="2400"/>
      </media>
      <symbols>
+          <Include href="btn_redondo.xml" itemIcon="0" loadImmediate="false" itemID="5829e333-00000c9f" lastModified="1479140147"/>
+          <Include href="componentes botones/btn_derecha.xml" itemIcon="0" loadImmediate="false" itemID="5829e311-00000c9a" lastModified="1479140113"/>
+          <Include href="componentes botones/btn_izquierda.xml" itemIcon="0" loadImmediate="false" itemID="5829e2f7-00000c86" lastModified="1479140087"/>
+          <Include href="componentes botones/btn_rompeta la cabeza.xml" itemIcon="0" loadImmediate="false" itemID="5829e193-00000c62" lastModified="1479139731"/>
+          <Include href="componentes clip de pelicula/cubo.xml" loadImmediate="false" itemID="5829e095-0000049b" lastModified="1479139477"/>
           <Include href="Recurso 10_consola.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc4c-000003b9" lastModified="1479138380"/>
           <Include href="Recurso 10_consola.svg Activos/Layer 1/&amp;#060Clip Group&amp;#062.xml" loadImmediate="false" itemID="5829dc4c-000003b8" lastModified="1479138379"/>
           <Include href="Recurso 11_cubo.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc50-00000564" lastModified="1479138384"/>
@@ -262,7 +268,132 @@
      <timelines>
           <DOMTimeline name="Escena 1">
                <layers>
-                    <DOMLayer name="consola" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="botones consola" color="#009999" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="componentes botones/btn_izquierda" selected="true" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="414.6" ty="654.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="53" y="32.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="componentes botones/btn_derecha" selected="true" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="607.4" ty="655.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="53" y="32.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="btn_redondo" selected="true" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="780.05" ty="655.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="60.6" y="31.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="btn rompete la cabeza" color="#FF4FFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="componentes botones/btn_rompeta la cabeza" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="304.6" ty="465.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="198.75" y="58.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="titulo" color="#FF800A" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText selected="true" fontRenderingMode="standard" width="483.45" height="86.3" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="280.2" ty="119.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Torres analiticas</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="79.25" size="64" bitmapSize="1280" face="Gf-PTSans-Regular" webFontInfo='{"familyName":"Gf-PT Sans","familyID":"PT Sans","variationName":"regular","variationID":"0","variationIndex":"0","postScriptName":"Gf-PTSans-Regular","familyCSSName":"PT Sans","fvd":"n4","type":"gfonts"}' fillColor="#00FF00"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="cubos" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="componentes clip de pelicula/cubo">
+                                             <matrix>
+                                                  <Matrix tx="134.1" ty="278.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="90.8" y="64.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="componentes clip de pelicula/cubo">
+                                             <matrix>
+                                                  <Matrix tx="134.1" ty="370.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="90.8" y="64.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="componentes clip de pelicula/cubo">
+                                             <matrix>
+                                                  <Matrix tx="396.6" ty="362.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="90.8" y="64.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="componentes clip de pelicula/cubo">
+                                             <matrix>
+                                                  <Matrix tx="643.85" ty="362.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="90.8" y="64.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="componentes clip de pelicula/cubo">
+                                             <matrix>
+                                                  <Matrix tx="134.1" ty="186.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="90.8" y="64.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="componentes clip de pelicula/cubo">
+                                             <matrix>
+                                                  <Matrix tx="396.6" ty="278.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="90.8" y="64.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="consola" color="#4F80FF" locked="true" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -282,6 +413,7 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
+          <PD n="TestMovieChecked" v="Browser"/>
           <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
      </persistentData>
      <PrinterSettings/>

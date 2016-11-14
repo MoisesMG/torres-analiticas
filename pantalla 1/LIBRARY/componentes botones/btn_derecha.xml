@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="componentes botones/btn_derecha" itemID="5829e311-00000c9a" symbolType="button" lastModified="1479140113">
+  <timeline>
+    <DOMTimeline name="btn_derecha">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Recurso 14_boton derecha.svg" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="53" y="32.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
