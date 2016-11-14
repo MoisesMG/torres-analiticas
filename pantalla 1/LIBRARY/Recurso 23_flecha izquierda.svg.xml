@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 23_flecha izquierda.svg" itemID="5829dc6a-00000582" symbolType="graphic" lastModified="1479138410">
+  <timeline>
+    <DOMTimeline name="Recurso 23_flecha izquierda.svg">
+      <layers>
+        <DOMLayer name="Recurso 23_flecha izquierda.svg" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#00FF00"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!613 0|0 613!0 613|613 1226!613 1226|757 1083!757 1083|287 613!287 613|756 144!756 144|613 0"/>
+                            <Edge cubics="!613 0(;613,0 0,613 0,613q613 0 0 613)0,613;"/>
+                            <Edge cubics="!0 613(0,613;0,613 613,1226 613,1226q0 613 613 1226);"/>
+                            <Edge cubics="!613 1226(;613,1226 757,1083 757,1083q613 1226 757 1083)757,1083;"/>
+                            <Edge cubics="!757 1083(;757,1083 287,613 287,613q757 1083 287 613);"/>
+                            <Edge cubics="!287 613(;287,613 756,144 756,144q287 613 756 144);"/>
+                            <Edge cubics="!756 144(;756,144 613,0 613,0q756 144 613 0)613,0;"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

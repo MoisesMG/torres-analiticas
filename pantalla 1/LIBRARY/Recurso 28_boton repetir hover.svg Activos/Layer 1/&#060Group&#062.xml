@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 28_boton repetir hover.svg Activos/Layer 1/&amp;#060Group&amp;#062" itemID="5829dc75-00000597" lastModified="1479138421">
+  <timeline>
+    <DOMTimeline name="&amp;#060Group&amp;#062">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMStaticText selected="true" width="20.3" height="43.65" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="0.05" ty="-5.65"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>R</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="6.75" lineHeight="43.65" size="33.75" bitmapSize="675" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText selected="true" width="84.75" height="43.65" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="18.5" ty="-5.65"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>epetir</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="6.75" lineHeight="43.65" size="33.75" bitmapSize="675" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

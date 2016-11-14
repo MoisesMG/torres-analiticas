@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_63" itemID="5829dc50-0000041f" lastModified="1479138384">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062_63">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#474747"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!219 118[169 94 108 61!108 61|0 0!0 0[50 24 110 57!110 57[171 90 219 118"/>
+                    <Edge cubics="!219 118(219,118;219,118 169,94 108,61q219 118Q169 94q108 61)108,61;"/>
+                    <Edge cubics="!108 61(;48,28 0,0 0,0q108 61 0 0);"/>
+                    <Edge cubics="!0 0(;0,0 50,24 110,57q0 0Q50 24q110 57);"/>
+                    <Edge cubics="!110 57(;171,90 219,118 219,118q110 57Q171 90q219 118);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

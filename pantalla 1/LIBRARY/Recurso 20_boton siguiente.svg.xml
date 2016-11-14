@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 20_boton siguiente.svg" itemID="5829dc66-0000057e" symbolType="graphic" lastModified="1479138406">
+  <timeline>
+    <DOMTimeline name="Recurso 20_boton siguiente.svg">
+      <layers>
+        <DOMLayer name="Recurso 20_boton siguiente.svg" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" weight="1.8" joints="miter" miterLimit="10">
+                                <fill>
+                                  <SolidColor color="#00FF00"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!1197 18[1685 18 2031 225!2031 225[2376 432 2376 725!2376 725[2376 1018 2031 1225!2031 1225[1685 1432 1197 1432!1197 1432[709 1432 363 1225!363 1225[18 1018 18 725!18 725[18 432 363 225!363 225[709 18 1197 18"/>
+                            <Edge cubics="!1197 18(1197,18;1848,18 2376,334 2376,725q1197 18Q1685 18q2031 225Q2376 432q2376 725)2376,725;"/>
+                            <Edge cubics="!2376 725(;2376,1116 1848,1432 1197,1432q2376 725Q2376 1018q2031 1225Q1685 1432q1197 1432);"/>
+                            <Edge cubics="!1197 1432(;546,1432 18,1116 18,725q1197 1432Q709 1432q363 1225Q18 1018q18 725);"/>
+                            <Edge cubics="!18 725(;18,334 546,18 1197,18q18 725Q18 432q363 225Q709 18q1197 18);"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMSymbolInstance libraryItemName="Recurso 20_boton siguiente.svg Activos/Layer 1/&amp;#060Group&amp;#062" selected="true">
+                          <matrix>
+                            <Matrix tx="14.65" ty="24.4"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="45.6" y="11.4"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

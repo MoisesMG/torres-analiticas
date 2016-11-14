@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_106" itemID="5829dc50-000003cb" lastModified="1479138384">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062_106">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.018890380859375" b="-0.010894775390625" c="0.010894775390625" d="-0.018890380859375" tx="40.45" ty="8.6"/>
+                        </matrix>
+                        <GradientEntry color="#414042" ratio="0"/>
+                        <GradientEntry color="#343335" alpha="0.819607843137255" ratio="0.149019607843137"/>
+                        <GradientEntry color="#060606" alpha="0.227450980392157" ratio="0.709803921568627"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!671 0|0 91!0 91|27 694!27 694|1384 388!1384 388|671 0"/>
+                    <Edge cubics="!671 0(671,0;671,0 0,91 0,91q671 0 0 91)0,91;"/>
+                    <Edge cubics="!0 91(;0,91 27,694 27,694q0 91 27 694);"/>
+                    <Edge cubics="!27 694(;27,694 1384,388 1384,388q27 694 1384 388);"/>
+                    <Edge cubics="!1384 388(;1384,388 671,0 671,0q1384 388 671 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

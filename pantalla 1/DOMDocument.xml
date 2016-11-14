@@ -1,0 +1,289 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" currentTimeline="1" xflVersion="2.8" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 16.0 build 112" majorVersion="16" buildNumber="112" viewAngle3D="88.2079048186946" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C">
+     <folders>
+          <DOMFolderItem name="componentes clip de pelicula" itemID="5829dd2a-000006a7"/>
+          <DOMFolderItem name="Recurso 10_consola.svg Activos" itemID="5829dc4c-000003b5"/>
+          <DOMFolderItem name="Recurso 10_consola.svg Activos/Layer 1" itemID="5829dc4c-000003b6"/>
+          <DOMFolderItem name="Recurso 11_cubo.svg Activos" itemID="5829dc50-000003bb"/>
+          <DOMFolderItem name="Recurso 11_cubo.svg Activos/Layer 1" itemID="5829dc50-000003bc"/>
+          <DOMFolderItem name="Recurso 18_boton creditos hover.svg Activos" itemID="5829dc62-00000572"/>
+          <DOMFolderItem name="Recurso 18_boton creditos hover.svg Activos/Layer 1" itemID="5829dc62-00000573"/>
+          <DOMFolderItem name="Recurso 20_boton siguiente.svg Activos" itemID="5829dc66-0000057a"/>
+          <DOMFolderItem name="Recurso 20_boton siguiente.svg Activos/Layer 1" itemID="5829dc66-0000057b"/>
+          <DOMFolderItem name="Recurso 24_boton ir a niveles.svg Activos" itemID="5829dc6c-00000584"/>
+          <DOMFolderItem name="Recurso 24_boton ir a niveles.svg Activos/Layer 1" itemID="5829dc6c-00000585"/>
+          <DOMFolderItem name="Recurso 26_boton ir a niveles resultados hover.svg Activos" itemID="5829dc71-0000058c"/>
+          <DOMFolderItem name="Recurso 26_boton ir a niveles resultados hover.svg Activos/Layer 1" itemID="5829dc71-0000058d"/>
+          <DOMFolderItem name="Recurso 28_boton repetir hover.svg Activos" itemID="5829dc75-00000594"/>
+          <DOMFolderItem name="Recurso 28_boton repetir hover.svg Activos/Layer 1" itemID="5829dc75-00000595"/>
+          <DOMFolderItem name="Recurso 29_boton regresar.svg Activos" itemID="5829dc76-0000059a"/>
+          <DOMFolderItem name="Recurso 29_boton regresar.svg Activos/Layer 1" itemID="5829dc76-0000059b"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="Recurso 11_cubo.svg Activos/Layer 1/&lt;Image&gt;" itemID="5829dc50-000003c5" sourceExternalFilepath="./LIBRARY/Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Image&amp;#062" sourceLastImported="1479138384" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Image&amp;#062" bitmapDataHRef="M 1 1479138384.dat" frameRight="3520" frameBottom="2400"/>
+     </media>
+     <symbols>
+          <Include href="Recurso 10_consola.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc4c-000003b9" lastModified="1479138380"/>
+          <Include href="Recurso 10_consola.svg Activos/Layer 1/&amp;#060Clip Group&amp;#062.xml" loadImmediate="false" itemID="5829dc4c-000003b8" lastModified="1479138379"/>
+          <Include href="Recurso 11_cubo.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc50-00000564" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062.xml" loadImmediate="false" itemID="5829dc50-000003c2" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062_0.xml" loadImmediate="false" itemID="5829dc50-00000499" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062_1.xml" loadImmediate="false" itemID="5829dc50-00000431" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062_3.xml" loadImmediate="false" itemID="5829dc50-000003c0" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062.xml" loadImmediate="false" itemID="5829dc50-000003c7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_0.xml" loadImmediate="false" itemID="5829dc50-00000563" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_1.xml" loadImmediate="false" itemID="5829dc50-00000495" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_1_0.xml" loadImmediate="false" itemID="5829dc50-000004fd" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_2.xml" loadImmediate="false" itemID="5829dc50-00000493" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_2_0.xml" loadImmediate="false" itemID="5829dc50-000004fb" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_2_1.xml" loadImmediate="false" itemID="5829dc50-00000561" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_3.xml" loadImmediate="false" itemID="5829dc50-00000491" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_3_0.xml" loadImmediate="false" itemID="5829dc50-000004f9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_3_1.xml" loadImmediate="false" itemID="5829dc50-0000055f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_4.xml" loadImmediate="false" itemID="5829dc50-0000048f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_4_0.xml" loadImmediate="false" itemID="5829dc50-000004f7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_4_1.xml" loadImmediate="false" itemID="5829dc50-0000055d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_5.xml" loadImmediate="false" itemID="5829dc50-0000048d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_5_0.xml" loadImmediate="false" itemID="5829dc50-000004f5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_5_1.xml" loadImmediate="false" itemID="5829dc50-0000055b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_6.xml" loadImmediate="false" itemID="5829dc50-0000048b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_6_0.xml" loadImmediate="false" itemID="5829dc50-000004f3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_6_1.xml" loadImmediate="false" itemID="5829dc50-00000559" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_7.xml" loadImmediate="false" itemID="5829dc50-00000489" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_7_0.xml" loadImmediate="false" itemID="5829dc50-000004f1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_7_1.xml" loadImmediate="false" itemID="5829dc50-00000557" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_8.xml" loadImmediate="false" itemID="5829dc50-00000487" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_8_0.xml" loadImmediate="false" itemID="5829dc50-000004ef" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_8_1.xml" loadImmediate="false" itemID="5829dc50-00000555" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_9.xml" loadImmediate="false" itemID="5829dc50-00000485" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_9_0.xml" loadImmediate="false" itemID="5829dc50-000004ed" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_9_1.xml" loadImmediate="false" itemID="5829dc50-00000553" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_10.xml" loadImmediate="false" itemID="5829dc50-00000483" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_10_0.xml" loadImmediate="false" itemID="5829dc50-000004eb" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_10_1.xml" loadImmediate="false" itemID="5829dc50-00000551" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_11.xml" loadImmediate="false" itemID="5829dc50-00000481" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_11_0.xml" loadImmediate="false" itemID="5829dc50-000004e9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_11_1.xml" loadImmediate="false" itemID="5829dc50-0000054f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_12.xml" loadImmediate="false" itemID="5829dc50-0000047f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_12_0.xml" loadImmediate="false" itemID="5829dc50-000004e7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_12_1.xml" loadImmediate="false" itemID="5829dc50-0000054d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_13.xml" loadImmediate="false" itemID="5829dc50-0000047d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_13_0.xml" loadImmediate="false" itemID="5829dc50-000004e5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_13_1.xml" loadImmediate="false" itemID="5829dc50-0000054b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_14.xml" loadImmediate="false" itemID="5829dc50-0000047b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_14_0.xml" loadImmediate="false" itemID="5829dc50-000004e3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_14_1.xml" loadImmediate="false" itemID="5829dc50-00000549" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_15.xml" loadImmediate="false" itemID="5829dc50-00000479" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_15_0.xml" loadImmediate="false" itemID="5829dc50-000004e1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_15_1.xml" loadImmediate="false" itemID="5829dc50-00000547" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_16.xml" loadImmediate="false" itemID="5829dc50-00000477" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_16_0.xml" loadImmediate="false" itemID="5829dc50-000004df" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_16_1.xml" loadImmediate="false" itemID="5829dc50-00000545" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_17.xml" loadImmediate="false" itemID="5829dc50-00000475" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_17_0.xml" loadImmediate="false" itemID="5829dc50-000004dd" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_17_1.xml" loadImmediate="false" itemID="5829dc50-00000543" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_18.xml" loadImmediate="false" itemID="5829dc50-00000473" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_18_0.xml" loadImmediate="false" itemID="5829dc50-000004db" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_18_1.xml" loadImmediate="false" itemID="5829dc50-00000541" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_19.xml" loadImmediate="false" itemID="5829dc50-00000471" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_19_0.xml" loadImmediate="false" itemID="5829dc50-000004d9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_19_1.xml" loadImmediate="false" itemID="5829dc50-0000053f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_20.xml" loadImmediate="false" itemID="5829dc50-0000046f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_20_0.xml" loadImmediate="false" itemID="5829dc50-000004d7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_20_1.xml" loadImmediate="false" itemID="5829dc50-0000053d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_21.xml" loadImmediate="false" itemID="5829dc50-0000046d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_21_0.xml" loadImmediate="false" itemID="5829dc50-000004d5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_21_1.xml" loadImmediate="false" itemID="5829dc50-0000053b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_22.xml" loadImmediate="false" itemID="5829dc50-0000046b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_22_0.xml" loadImmediate="false" itemID="5829dc50-000004d3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_22_1.xml" loadImmediate="false" itemID="5829dc50-00000539" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_23.xml" loadImmediate="false" itemID="5829dc50-00000469" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_23_0.xml" loadImmediate="false" itemID="5829dc50-000004d1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_23_1.xml" loadImmediate="false" itemID="5829dc50-00000537" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_24.xml" loadImmediate="false" itemID="5829dc50-00000467" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_24_0.xml" loadImmediate="false" itemID="5829dc50-000004cf" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_24_1.xml" loadImmediate="false" itemID="5829dc50-00000535" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_25.xml" loadImmediate="false" itemID="5829dc50-00000465" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_25_0.xml" loadImmediate="false" itemID="5829dc50-000004cd" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_25_1.xml" loadImmediate="false" itemID="5829dc50-00000533" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_26.xml" loadImmediate="false" itemID="5829dc50-00000463" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_26_0.xml" loadImmediate="false" itemID="5829dc50-000004cb" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_26_1.xml" loadImmediate="false" itemID="5829dc50-00000531" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_27.xml" loadImmediate="false" itemID="5829dc50-00000461" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_27_0.xml" loadImmediate="false" itemID="5829dc50-000004c9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_27_1.xml" loadImmediate="false" itemID="5829dc50-0000052f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_28.xml" loadImmediate="false" itemID="5829dc50-0000045f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_28_0.xml" loadImmediate="false" itemID="5829dc50-000004c7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_28_1.xml" loadImmediate="false" itemID="5829dc50-0000052d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_29.xml" loadImmediate="false" itemID="5829dc50-0000045d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_29_0.xml" loadImmediate="false" itemID="5829dc50-000004c5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_29_1.xml" loadImmediate="false" itemID="5829dc50-0000052b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_30.xml" loadImmediate="false" itemID="5829dc50-0000045b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_30_0.xml" loadImmediate="false" itemID="5829dc50-000004c3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_30_1.xml" loadImmediate="false" itemID="5829dc50-00000529" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_31.xml" loadImmediate="false" itemID="5829dc50-00000459" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_31_0.xml" loadImmediate="false" itemID="5829dc50-000004c1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_31_1.xml" loadImmediate="false" itemID="5829dc50-00000527" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_32.xml" loadImmediate="false" itemID="5829dc50-00000457" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_32_0.xml" loadImmediate="false" itemID="5829dc50-000004bf" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_32_1.xml" loadImmediate="false" itemID="5829dc50-00000525" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_33.xml" loadImmediate="false" itemID="5829dc50-00000455" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_33_0.xml" loadImmediate="false" itemID="5829dc50-000004bd" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_33_1.xml" loadImmediate="false" itemID="5829dc50-00000523" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_34.xml" loadImmediate="false" itemID="5829dc50-00000453" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_34_0.xml" loadImmediate="false" itemID="5829dc50-000004bb" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_34_1.xml" loadImmediate="false" itemID="5829dc50-00000521" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_35.xml" loadImmediate="false" itemID="5829dc50-00000451" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_35_0.xml" loadImmediate="false" itemID="5829dc50-000004b9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_35_1.xml" loadImmediate="false" itemID="5829dc50-0000051f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_36.xml" loadImmediate="false" itemID="5829dc50-0000044f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_36_0.xml" loadImmediate="false" itemID="5829dc50-000004b7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_36_1.xml" loadImmediate="false" itemID="5829dc50-0000051d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_37.xml" loadImmediate="false" itemID="5829dc50-0000044d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_37_0.xml" loadImmediate="false" itemID="5829dc50-000004b5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_37_1.xml" loadImmediate="false" itemID="5829dc50-0000051b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_38.xml" loadImmediate="false" itemID="5829dc50-0000044b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_38_0.xml" loadImmediate="false" itemID="5829dc50-000004b3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_38_1.xml" loadImmediate="false" itemID="5829dc50-00000519" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_39.xml" loadImmediate="false" itemID="5829dc50-00000449" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_39_0.xml" loadImmediate="false" itemID="5829dc50-000004b1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_39_1.xml" loadImmediate="false" itemID="5829dc50-00000517" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_40.xml" loadImmediate="false" itemID="5829dc50-00000447" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_40_0.xml" loadImmediate="false" itemID="5829dc50-000004af" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_40_1.xml" loadImmediate="false" itemID="5829dc50-00000515" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_41.xml" loadImmediate="false" itemID="5829dc50-00000445" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_41_0.xml" loadImmediate="false" itemID="5829dc50-000004ad" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_41_1.xml" loadImmediate="false" itemID="5829dc50-00000513" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_42.xml" loadImmediate="false" itemID="5829dc50-00000443" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_42_0.xml" loadImmediate="false" itemID="5829dc50-000004ab" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_42_1.xml" loadImmediate="false" itemID="5829dc50-00000511" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_43.xml" loadImmediate="false" itemID="5829dc50-00000441" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_43_0.xml" loadImmediate="false" itemID="5829dc50-000004a9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_43_1.xml" loadImmediate="false" itemID="5829dc50-0000050f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_44.xml" loadImmediate="false" itemID="5829dc50-0000043f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_44_0.xml" loadImmediate="false" itemID="5829dc50-000004a7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_44_1.xml" loadImmediate="false" itemID="5829dc50-0000050d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_45.xml" loadImmediate="false" itemID="5829dc50-0000043d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_45_0.xml" loadImmediate="false" itemID="5829dc50-000004a5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_45_1.xml" loadImmediate="false" itemID="5829dc50-0000050b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_46.xml" loadImmediate="false" itemID="5829dc50-0000043b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_46_0.xml" loadImmediate="false" itemID="5829dc50-000004a3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_46_1.xml" loadImmediate="false" itemID="5829dc50-00000509" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_47.xml" loadImmediate="false" itemID="5829dc50-00000439" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_47_0.xml" loadImmediate="false" itemID="5829dc50-000004a1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_47_1.xml" loadImmediate="false" itemID="5829dc50-00000507" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_48.xml" loadImmediate="false" itemID="5829dc50-00000437" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_48_0.xml" loadImmediate="false" itemID="5829dc50-0000049f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_48_1.xml" loadImmediate="false" itemID="5829dc50-00000505" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_49.xml" loadImmediate="false" itemID="5829dc50-00000435" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_49_0.xml" loadImmediate="false" itemID="5829dc50-0000049d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_49_1.xml" loadImmediate="false" itemID="5829dc50-00000503" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_50.xml" loadImmediate="false" itemID="5829dc50-00000433" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_50_0.xml" loadImmediate="false" itemID="5829dc50-0000049b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_50_1.xml" loadImmediate="false" itemID="5829dc50-00000501" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_51.xml" loadImmediate="false" itemID="5829dc50-000004ff" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_53.xml" loadImmediate="false" itemID="5829dc50-00000497" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_55.xml" loadImmediate="false" itemID="5829dc50-0000042f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_56.xml" loadImmediate="false" itemID="5829dc50-0000042d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_57.xml" loadImmediate="false" itemID="5829dc50-0000042b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_58.xml" loadImmediate="false" itemID="5829dc50-00000429" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_59.xml" loadImmediate="false" itemID="5829dc50-00000427" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_60.xml" loadImmediate="false" itemID="5829dc50-00000425" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_61.xml" loadImmediate="false" itemID="5829dc50-00000423" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_62.xml" loadImmediate="false" itemID="5829dc50-00000421" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_63.xml" loadImmediate="false" itemID="5829dc50-0000041f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_64.xml" loadImmediate="false" itemID="5829dc50-0000041d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_65.xml" loadImmediate="false" itemID="5829dc50-0000041b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_66.xml" loadImmediate="false" itemID="5829dc50-00000419" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_67.xml" loadImmediate="false" itemID="5829dc50-00000417" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_68.xml" loadImmediate="false" itemID="5829dc50-00000415" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_69.xml" loadImmediate="false" itemID="5829dc50-00000413" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_70.xml" loadImmediate="false" itemID="5829dc50-00000411" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_71.xml" loadImmediate="false" itemID="5829dc50-0000040f" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_72.xml" loadImmediate="false" itemID="5829dc50-0000040d" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_73.xml" loadImmediate="false" itemID="5829dc50-0000040b" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_74.xml" loadImmediate="false" itemID="5829dc50-00000409" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_75.xml" loadImmediate="false" itemID="5829dc50-00000407" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_76.xml" loadImmediate="false" itemID="5829dc50-00000405" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_77.xml" loadImmediate="false" itemID="5829dc50-00000403" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_78.xml" loadImmediate="false" itemID="5829dc50-00000401" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_79.xml" loadImmediate="false" itemID="5829dc50-000003ff" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_80.xml" loadImmediate="false" itemID="5829dc50-000003fd" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_81.xml" loadImmediate="false" itemID="5829dc50-000003fb" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_82.xml" loadImmediate="false" itemID="5829dc50-000003f9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_83.xml" loadImmediate="false" itemID="5829dc50-000003f7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_84.xml" loadImmediate="false" itemID="5829dc50-000003f5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_85.xml" loadImmediate="false" itemID="5829dc50-000003f3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_86.xml" loadImmediate="false" itemID="5829dc50-000003f1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_87.xml" loadImmediate="false" itemID="5829dc50-000003ef" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_88.xml" loadImmediate="false" itemID="5829dc50-000003ed" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_89.xml" loadImmediate="false" itemID="5829dc50-000003eb" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_90.xml" loadImmediate="false" itemID="5829dc50-000003e9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_91.xml" loadImmediate="false" itemID="5829dc50-000003e7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_92.xml" loadImmediate="false" itemID="5829dc50-000003e5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_93.xml" loadImmediate="false" itemID="5829dc50-000003e3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_94.xml" loadImmediate="false" itemID="5829dc50-000003e1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_95.xml" loadImmediate="false" itemID="5829dc50-000003df" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_96.xml" loadImmediate="false" itemID="5829dc50-000003dd" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_97.xml" loadImmediate="false" itemID="5829dc50-000003db" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_98.xml" loadImmediate="false" itemID="5829dc50-000003d9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_99.xml" loadImmediate="false" itemID="5829dc50-000003d7" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_100.xml" loadImmediate="false" itemID="5829dc50-000003d5" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_101.xml" loadImmediate="false" itemID="5829dc50-000003d3" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_102.xml" loadImmediate="false" itemID="5829dc50-000003d1" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_103.xml" loadImmediate="false" itemID="5829dc50-000003cf" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_104.xml" loadImmediate="false" itemID="5829dc50-000003cd" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_106.xml" loadImmediate="false" itemID="5829dc50-000003cb" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_107.xml" loadImmediate="false" itemID="5829dc50-000003c9" lastModified="1479138384"/>
+          <Include href="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_108.xml" loadImmediate="false" itemID="5829dc50-000003be" lastModified="1479138384"/>
+          <Include href="Recurso 12_rompete la cabeza.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc54-00000566" lastModified="1479138388"/>
+          <Include href="Recurso 13_boton izquierda.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc57-00000568" lastModified="1479138391"/>
+          <Include href="Recurso 14_boton derecha.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc59-0000056a" lastModified="1479138393"/>
+          <Include href="Recurso 15_boton redondo.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc5b-0000056c" lastModified="1479138395"/>
+          <Include href="Recurso 16boton regresar.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc5d-0000056e" lastModified="1479138397"/>
+          <Include href="Recurso 17_boton creditos.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc60-00000570" lastModified="1479138400"/>
+          <Include href="Recurso 18_boton creditos hover.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc62-00000576" lastModified="1479138402"/>
+          <Include href="Recurso 18_boton creditos hover.svg Activos/Layer 1/&amp;#060Group&amp;#062.xml" loadImmediate="false" itemID="5829dc62-00000575" lastModified="1479138402"/>
+          <Include href="Recurso 19_boton ir a home.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc64-00000578" lastModified="1479138404"/>
+          <Include href="Recurso 20_boton siguiente.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc66-0000057e" lastModified="1479138406"/>
+          <Include href="Recurso 20_boton siguiente.svg Activos/Layer 1/&amp;#060Group&amp;#062.xml" loadImmediate="false" itemID="5829dc66-0000057d" lastModified="1479138406"/>
+          <Include href="Recurso 21_flecha derecha.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc67-00000580" lastModified="1479138407"/>
+          <Include href="Recurso 23_flecha izquierda.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc6a-00000582" lastModified="1479138410"/>
+          <Include href="Recurso 24_boton ir a niveles.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc6c-00000588" lastModified="1479138412"/>
+          <Include href="Recurso 24_boton ir a niveles.svg Activos/Layer 1/&amp;#060Group&amp;#062.xml" loadImmediate="false" itemID="5829dc6c-00000587" lastModified="1479138412"/>
+          <Include href="Recurso 25_boton ir a niveles resultados.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc6e-0000058a" lastModified="1479138414"/>
+          <Include href="Recurso 26_boton ir a niveles resultados hover.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc71-00000590" lastModified="1479138417"/>
+          <Include href="Recurso 26_boton ir a niveles resultados hover.svg Activos/Layer 1/&amp;#060Group&amp;#062.xml" loadImmediate="false" itemID="5829dc71-0000058f" lastModified="1479138417"/>
+          <Include href="Recurso 27_boton repetir.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc73-00000592" lastModified="1479138419"/>
+          <Include href="Recurso 28_boton repetir hover.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc75-00000598" lastModified="1479138421"/>
+          <Include href="Recurso 28_boton repetir hover.svg Activos/Layer 1/&amp;#060Group&amp;#062.xml" loadImmediate="false" itemID="5829dc75-00000597" lastModified="1479138421"/>
+          <Include href="Recurso 29_boton regresar.svg.xml" itemIcon="1" loadImmediate="false" itemID="5829dc77-0000059e" lastModified="1479138423"/>
+          <Include href="Recurso 29_boton regresar.svg Activos/Layer 1/&amp;#060Group&amp;#062.xml" loadImmediate="false" itemID="5829dc76-0000059d" lastModified="1479138422"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Escena 1">
+               <layers>
+                    <DOMLayer name="consola" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Recurso 10_consola.svg" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-88.45" ty="-5.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="600.45" y="399.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

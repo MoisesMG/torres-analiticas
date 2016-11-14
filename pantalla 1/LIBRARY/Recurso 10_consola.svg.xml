@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 10_consola.svg" itemID="5829dc4c-000003b9" symbolType="graphic" lastModified="1479138380">
+  <timeline>
+    <DOMTimeline name="Recurso 10_consola.svg">
+      <layers>
+        <DOMLayer name="Recurso 10_consola.svg" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMSymbolInstance libraryItemName="Recurso 10_consola.svg Activos/Layer 1/&amp;#060Clip Group&amp;#062" selected="true">
+                          <transformationPoint>
+                            <Point x="600.45" y="399.85"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

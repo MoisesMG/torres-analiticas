@@ -1,0 +1,81 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 12_rompete la cabeza.svg" itemID="5829dc54-00000566" symbolType="graphic" lastModified="1479138388">
+  <timeline>
+    <DOMTimeline name="Recurso 12_rompete la cabeza.svg">
+      <layers>
+        <DOMLayer name="Recurso 12_rompete la cabeza.svg" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" weight="4.25" joints="miter" miterLimit="10">
+                                <fill>
+                                  <SolidColor color="#00FF00"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!4017 43[5663 43 6828 388!6828 388[7378 551 7680 762!7680 762[7992 981 7992 1220!7992 1220[7992 1460 7680 1679!7680 1679[7378 1890 6828 2053!6828 2053[5664 2398 4017 2398!4017 2398[2370 2398 1206 2053!1206 2053[656 1890 354 1679!354 1679
+[42 1460 42 1220!42 1220[42 981 354 762!354 762[656 551 1206 388!1206 388[2371 43 4017 43"/>
+                            <Edge cubics="!4017 43(4017,43;6212,43 7992,570 7992,1220q4017 43Q5663 43q6828 388Q7378 551q7680 762Q7992 981q7992 1220)7992,1220;"/>
+                            <Edge cubics="!7992 1220(7992,1220;7992,1871 6212,2398 4017,2398q7992 1220Q7992 1460q7680 1679Q7378 1890q6828 2053Q5664 2398q4017 2398);"/>
+                            <Edge cubics="!4017 2398(4017,2398;1822,2398 42,1871 42,1220q4017 2398Q2370 2398q1206 2053Q656 1890q354 1679Q42 1460q42 1220)42,1220;"/>
+                            <Edge cubics="!42 1220(42,1220;42,570 1822,43 4017,43q42 1220Q42 981q354 762Q656 551q1206 388Q2371 43q4017 43)4017,43;"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#00FF00"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!1460 522[1738 523 1935 720!1935 720[2132 917 2131 1195!2131 1195[2131 1473 1934 1670!1934 1670[1737 1867 1459 1867!1459 1867[1181 1866 984 1669!984 1669[787 1472 787 1194!787 1194[786 917 982 720!982 720[1178 523 1456 522!1456 522|1460
+ 522!1323 1497|1727 1194!1727 1194|1323 891!1323 891|1323 1497"/>
+                            <Edge cubics="!1460 522(1460,522;1831,523 2132,824 2131,1195q1460 522Q1738 523q1935 720Q2132 917q2131 1195);"/>
+                            <Edge cubics="!2131 1195(2131,1195;2131,1566 1830,1867 1459,1867q2131 1195Q2131 1473q1934 1670Q1737 1867q1459 1867)1459,1867;"/>
+                            <Edge cubics="!1459 1867(;1088,1866 787,1565 787,1194q1459 1867Q1181 1866q984 1669Q787 1472q787 1194);"/>
+                            <Edge cubics="!787 1194(787,1194;786,824 1086,523 1456,522q787 1194Q786 917q982 720Q1178 523q1456 522)1456,522;"/>
+                            <Edge cubics="!1456 522(1456,522;1457,522 1458,522 1460,522q1456 522 1460 522)1460,522;"/>
+                            <Edge cubics="!1323 1497(1323,1497;1323,1497 1727,1194 1727,1194q1323 1497 1727 1194)1727,1194;"/>
+                            <Edge cubics="!1727 1194(1727,1194;1727,1194 1323,891 1323,891q1727 1194 1323 891)1323,891;"/>
+                            <Edge cubics="!1323 891(1323,891;1323,891 1323,1497 1323,1497q1323 891 1323 1497)1323,1497;"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMStaticText selected="true" width="239.45" height="33.6" autoExpand="true" isSelectable="false">
+                          <matrix>
+                            <Matrix tx="117.4" ty="41.7"/>
+                          </matrix>
+                          <textRuns>
+                            <DOMTextRun>
+                              <characters>Rompete la cabeza</characters>
+                              <textAttrs>
+                                <DOMTextAttrs aliasText="false" lineSpacing="5.6" lineHeight="33.6" size="28" bitmapSize="560" face="Roboto-Regular" fillColor="#00FF00"/>
+                              </textAttrs>
+                            </DOMTextRun>
+                          </textRuns>
+                        </DOMStaticText>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

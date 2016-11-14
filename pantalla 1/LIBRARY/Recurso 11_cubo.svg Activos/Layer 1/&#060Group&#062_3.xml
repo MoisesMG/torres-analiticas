@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062_3" itemID="5829dc50-000003c0" lastModified="1479138384">
+  <timeline>
+    <DOMTimeline name="&amp;#060Group&amp;#062_3">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062" selected="true">
+                      <transformationPoint>
+                        <Point x="88" y="60"/>
+                      </transformationPoint>
+                      <color>
+                        <Color alphaMultiplier="0.5390625"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062" selected="true">
+                      <matrix>
+                        <Matrix tx="42.75" ty="41.35"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="51.45" y="23.45"/>
+                      </transformationPoint>
+                      <color>
+                        <Color alphaMultiplier="0.69921875"/>
+                      </color>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

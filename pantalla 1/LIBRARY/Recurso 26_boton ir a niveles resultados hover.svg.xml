@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 26_boton ir a niveles resultados hover.svg" itemID="5829dc71-00000590" symbolType="graphic" lastModified="1479138417">
+  <timeline>
+    <DOMTimeline name="Recurso 26_boton ir a niveles resultados hover.svg">
+      <layers>
+        <DOMLayer name="Recurso 26_boton ir a niveles resultados hover.svg" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" weight="2.15" joints="miter" miterLimit="10">
+                                <fill>
+                                  <SolidColor color="#00FF00"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!1561 21[2199 21 2650 250!2650 250[3101 479 3101 802!3101 802[3101 1125 2650 1354!2650 1354[2199 1583 1561 1583!1561 1583[923 1583 472 1354!472 1354[21 1125 21 802!21 802[21 479 472 250!472 250[923 21 1561 21"/>
+                            <Edge cubics="!1561 21(;2411,21 3101,371 3101,802q1561 21Q2199 21q2650 250Q3101 479q3101 802);"/>
+                            <Edge cubics="!3101 802(3101,802;3101,1233 2411,1583 1561,1583q3101 802Q3101 1125q2650 1354Q2199 1583q1561 1583)1561,1583;"/>
+                            <Edge cubics="!1561 1583(;710,1583 21,1233 21,802q1561 1583Q923 1583q472 1354Q21 1125q21 802);"/>
+                            <Edge cubics="!21 802(;21,371 710,21 1561,21q21 802Q21 479q472 250Q923 21q1561 21);"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMSymbolInstance libraryItemName="Recurso 26_boton ir a niveles resultados hover.svg Activos/Layer 1/&amp;#060Group&amp;#062" selected="true">
+                          <matrix>
+                            <Matrix tx="17.65" ty="25.5"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="62" y="12.7"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

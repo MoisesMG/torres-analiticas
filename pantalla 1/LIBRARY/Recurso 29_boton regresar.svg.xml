@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 29_boton regresar.svg" itemID="5829dc77-0000059e" symbolType="graphic" lastModified="1479138423">
+  <timeline>
+    <DOMTimeline name="Recurso 29_boton regresar.svg">
+      <layers>
+        <DOMLayer name="Recurso 29_boton regresar.svg" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" weight="1.8" joints="miter" miterLimit="10">
+                                <fill>
+                                  <SolidColor color="#00FF00"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!1196 18[1685 18 2031 225!2031 225[2376 432 2376 725!2376 725[2376 1018 2031 1225!2031 1225[1685 1432 1196 1432!1196 1432[708 1432 362 1225!362 1225[17 1018 17 725!17 725[17 432 362 225!362 225[708 18 1196 18"/>
+                            <Edge cubics="!1196 18(1196,18;1848,18 2376,334 2376,725q1196 18Q1685 18q2031 225Q2376 432q2376 725)2376,725;"/>
+                            <Edge cubics="!2376 725(;2376,1116 1848,1432 1196,1432q2376 725Q2376 1018q2031 1225Q1685 1432q1196 1432);"/>
+                            <Edge cubics="!1196 1432(1196,1432;545,1432 17,1116 17,725q1196 1432Q708 1432q362 1225Q17 1018q17 725)17,725;"/>
+                            <Edge cubics="!17 725(;17,334 545,18 1196,18q17 725Q17 432q362 225Q708 18q1196 18);"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMSymbolInstance libraryItemName="Recurso 29_boton regresar.svg Activos/Layer 1/&amp;#060Group&amp;#062" selected="true">
+                          <matrix>
+                            <Matrix tx="11.15" ty="22.25"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="49.35" y="12.75"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

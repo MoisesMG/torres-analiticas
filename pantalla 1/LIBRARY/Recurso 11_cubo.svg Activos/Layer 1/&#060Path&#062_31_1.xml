@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_31_1" itemID="5829dc50-00000527" lastModified="1479138384">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062_31_1">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!81 145|2 108!2 108[0 103 0 95!0 95[0 38 6 0!6 0[11 41 13 94!13 94[13 99 13 100!13 100|81 145"/>
+                    <Edge cubics="!2 108(;0,103 0,99 0,95q2 108Q0 103q0 95);"/>
+                    <Edge cubics="!0 95(;0,63 1,32 6,0q0 95Q0 38q6 0);"/>
+                    <Edge cubics="!6 0(;10,31 12,63 13,94q6 0Q11 41q13 94);"/>
+                    <Edge cubics="!13 94(;13,97 13,99 13,100q13 94Q13 99q13 100);"/>
+                    <Edge cubics="!81 145(;81,145 2,108 2,108q81 145 2 108);"/>
+                    <Edge cubics="!13 100(;13,100 81,145 81,145q13 100 81 145);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

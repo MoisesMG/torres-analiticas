@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 18_boton creditos hover.svg Activos/Layer 1/&amp;#060Group&amp;#062" itemID="5829dc62-00000575" lastModified="1479138402">
+  <timeline>
+    <DOMTimeline name="&amp;#060Group&amp;#062">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMStaticText selected="true" width="18.85" height="42.35" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix ty="-5.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>C</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="6.5" lineHeight="42.35" size="32.7" bitmapSize="654" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText selected="true" width="54.2" height="42.35" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="18.15" ty="-5.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>redi</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="6.5" lineHeight="42.35" size="32.7" bitmapSize="654" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText selected="true" width="11.3" height="42.35" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="72.3" ty="-5.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>t</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="6.5" lineHeight="42.35" size="32.7" bitmapSize="654" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText selected="true" width="31.5" height="42.35" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="83.05" ty="-5.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>os</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="6.5" lineHeight="42.35" size="32.7" bitmapSize="654" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

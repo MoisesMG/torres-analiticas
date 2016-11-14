@@ -1,0 +1,1351 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 11_cubo.svg" itemID="5829dc50-00000564" symbolType="graphic" lastModified="1479138384">
+  <timeline>
+    <DOMTimeline name="Recurso 11_cubo.svg">
+      <layers>
+        <DOMLayer name="Recurso 11_cubo.svg" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_108" selected="true">
+                              <matrix>
+                                <Matrix tx="11.85" ty="70.55"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="55.1" y="15.95"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.171875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062_3" selected="true">
+                              <matrix>
+                                <Matrix ty="9.8"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="88" y="60"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.8203125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMGroup selected="true">
+                              <members>
+                                <DOMShape selected="true" isDrawingObject="true">
+                                  <fills>
+                                    <FillStyle index="1">
+                                      <RadialGradient>
+                                        <matrix>
+                                          <Matrix a="0.087982177734375" d="0.087982177734375" tx="179.8" ty="20.1"/>
+                                        </matrix>
+                                        <GradientEntry color="#D9D8D8" ratio="0.0313725490196078"/>
+                                        <GradientEntry color="#A9A9AC" ratio="0.698039215686274"/>
+                                        <GradientEntry color="#A1A1A4" ratio="0.870588235294118"/>
+                                        <GradientEntry color="#97979A" ratio="1"/>
+                                      </RadialGradient>
+                                    </FillStyle>
+                                  </fills>
+                                  <edges>
+                                    <Edge fillStyle1="1" edges="!2445 555|1732 167!1732 167|2918 0!2918 0|3632 388!3632 388|2445 555"/>
+                                    <Edge cubics="!2445 555(;2445,555 1732,167 1732,167q2445 555 1732 167);"/>
+                                    <Edge cubics="!1732 167(;1732,167 2918,0 2918,0q1732 167 2918 0);"/>
+                                    <Edge cubics="!2918 0(;2918,0 3632,388 3632,388q2918 0 3632 388);"/>
+                                    <Edge cubics="!3632 388(;3632,388 2445,555 2445,555q3632 388 2445 555);"/>
+                                  </edges>
+                                </DOMShape>
+                                <DOMShape selected="true" isDrawingObject="true">
+                                  <fills>
+                                    <FillStyle index="1">
+                                      <SolidColor color="#6D6E71"/>
+                                    </FillStyle>
+                                  </fills>
+                                  <edges>
+                                    <Edge fillStyle1="1" edges="!2443 1835|1729 1447!1729 1447|1732 167!1732 167|2445 555!2445 555|2443 1835"/>
+                                    <Edge cubics="!2443 1835(2443,1835;2443,1835 1729,1447 1729,1447q2443 1835 1729 1447)1729,1447;"/>
+                                    <Edge cubics="!1729 1447(;1729,1447 1732,167 1732,167q1729 1447 1732 167);"/>
+                                    <Edge cubics="!1732 167(;1732,167 2445,555 2445,555q1732 167 2445 555);"/>
+                                    <Edge cubics="!2445 555(;2445,555 2443,1835 2443,1835q2445 555 2443 1835)2443,1835;"/>
+                                  </edges>
+                                </DOMShape>
+                                <DOMShape selected="true" isDrawingObject="true">
+                                  <fills>
+                                    <FillStyle index="1">
+                                      <RadialGradient>
+                                        <matrix>
+                                          <Matrix a="0.099761962890625" d="0.099761962890625" tx="133.6" ty="5.3"/>
+                                        </matrix>
+                                        <GradientEntry color="#A9A9AC" ratio="0"/>
+                                        <GradientEntry color="#A0A0A4" ratio="0.12156862745098"/>
+                                        <GradientEntry color="#8B8B8E" ratio="0.298039215686275"/>
+                                        <GradientEntry color="#6D6E71" ratio="0.490196078431373"/>
+                                        <GradientEntry color="#5F5F61" ratio="0.788235294117647"/>
+                                        <GradientEntry color="#515152" ratio="1"/>
+                                      </RadialGradient>
+                                    </FillStyle>
+                                  </fills>
+                                  <edges>
+                                    <Edge fillStyle1="1" edges="!2442 1849|1729 1451!1729 1451|1732 170!1732 170|2445 558!2445 558|2442 1849"/>
+                                    <Edge cubics="!2442 1849(;2442,1849 1729,1451 1729,1451q2442 1849 1729 1451);"/>
+                                    <Edge cubics="!1729 1451(;1729,1451 1732,170 1732,170q1729 1451 1732 170);"/>
+                                    <Edge cubics="!1732 170(;1732,170 2445,558 2445,558q1732 170 2445 558);"/>
+                                    <Edge cubics="!2445 558(;2445,558 2442,1849 2442,1849q2445 558 2442 1849);"/>
+                                  </edges>
+                                </DOMShape>
+                                <DOMShape selected="true" isDrawingObject="true">
+                                  <fills>
+                                    <FillStyle index="1">
+                                      <SolidColor color="#E6E6E7"/>
+                                    </FillStyle>
+                                  </fills>
+                                  <edges>
+                                    <Edge fillStyle1="1" edges="!3632 392|3629 1672!3629 1672|2443 1839!2443 1839|2445 559!2445 559|3632 392"/>
+                                    <Edge cubics="!3632 392(;3632,392 3629,1672 3629,1672q3632 392 3629 1672);"/>
+                                    <Edge cubics="!3629 1672(;3629,1672 2443,1839 2443,1839q3629 1672 2443 1839);"/>
+                                    <Edge cubics="!2443 1839(;2443,1839 2445,559 2445,559q2443 1839 2445 559);"/>
+                                    <Edge cubics="!2445 559(;2445,559 3632,392 3632,392q2445 559 3632 392);"/>
+                                  </edges>
+                                </DOMShape>
+                                <DOMShape selected="true" isDrawingObject="true">
+                                  <fills>
+                                    <FillStyle index="1">
+                                      <LinearGradient>
+                                        <matrix>
+                                          <Matrix a="-0.019378662109375" b="-0.0254058837890625" c="0.0254058837890625" d="-0.019378662109375" tx="168.25" ty="34.8"/>
+                                        </matrix>
+                                        <GradientEntry color="#EBEBEC" ratio="0"/>
+                                        <GradientEntry color="#DADBDC" ratio="0.588235294117647"/>
+                                        <GradientEntry color="#CFD2D3" ratio="0.858823529411765"/>
+                                      </LinearGradient>
+                                    </FillStyle>
+                                  </fills>
+                                  <edges>
+                                    <Edge fillStyle1="1" edges="!3632 402|3629 1682!3629 1682|2443 1849!2443 1849|2445 568!2445 568|3632 402"/>
+                                    <Edge cubics="!3632 402(;3632,402 3629,1682 3629,1682q3632 402 3629 1682);"/>
+                                    <Edge cubics="!3629 1682(;3629,1682 2443,1849 2443,1849q3629 1682 2443 1849);"/>
+                                    <Edge cubics="!2443 1849(;2443,1849 2445,568 2445,568q2443 1849 2445 568);"/>
+                                    <Edge cubics="!2445 568(;2445,568 3632,402 3632,402q2445 568 3632 402)3632,402;"/>
+                                  </edges>
+                                </DOMShape>
+                              </members>
+                            </DOMGroup>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_107" selected="true">
+                              <matrix>
+                                <Matrix tx="43.75" ty="45.6"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="51.45" y="23.4"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.578125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_106" selected="true">
+                              <matrix>
+                                <Matrix tx="53" ty="72.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="34.6" y="17.35"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.1484375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#474747" alpha="0"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="!2390 1803[2238 1733 2057 1635!2057 1635[1945 1574 1829 1505!1829 1505|1735 1449!1735 1449|1833 1496!1833 1496[1954 1556 2067 1617!2067 1617[2248 1715 2390 1803"/>
+                                <Edge cubics="!2390 1803(;2390,1803 2238,1733 2057,1635q2390 1803Q2238 1733q2057 1635);"/>
+                                <Edge cubics="!2057 1635(;1877,1537 1735,1449 1735,1449q2057 1635Q1945 1574q1829 1505Q1735 1449q1735 1449);"/>
+                                <Edge cubics="!1735 1449(1735,1449;1735,1449 1886,1519 2067,1617q1735 1449Q1735 1449q1833 1496Q1954 1556q2067 1617)2067,1617;"/>
+                                <Edge cubics="!2067 1617(2067,1617;2248,1715 2390,1803 2390,1803q2067 1617Q2248 1715q2390 1803);"/>
+                              </edges>
+                            </DOMShape>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_104" selected="true">
+                              <matrix>
+                                <Matrix tx="87" ty="72.55"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="16.1" y="8.7"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.01953125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_103" selected="true">
+                              <matrix>
+                                <Matrix tx="87.25" ty="72.75"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="15.85" y="8.55"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.0390625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_102" selected="true">
+                              <matrix>
+                                <Matrix tx="87.5" ty="72.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="15.6" y="8.4"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.05859375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_101" selected="true">
+                              <matrix>
+                                <Matrix tx="87.8" ty="73"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="15.3" y="8.3"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.078125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_100" selected="true">
+                              <matrix>
+                                <Matrix tx="88.05" ty="73.15"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="15.05" y="8.15"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.1015625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_99" selected="true">
+                              <matrix>
+                                <Matrix tx="88.4" ty="73.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="14.8" y="8.05"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.12109375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_98" selected="true">
+                              <matrix>
+                                <Matrix tx="88.55" ty="73.4"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="14.55" y="7.9"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.140625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_97" selected="true">
+                              <matrix>
+                                <Matrix tx="88.8" ty="73.55"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="14.3" y="7.75"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.16015625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_96" selected="true">
+                              <matrix>
+                                <Matrix tx="89.1" ty="73.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="14" y="7.6"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.1796875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_95" selected="true">
+                              <matrix>
+                                <Matrix tx="89.3" ty="73.85"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="13.8" y="7.45"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.19921875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_94" selected="true">
+                              <matrix>
+                                <Matrix tx="89.6" ty="74"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="13.5" y="7.3"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.21875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_93" selected="true">
+                              <matrix>
+                                <Matrix tx="89.85" ty="74.1"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="13.25" y="7.2"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.23828125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_92" selected="true">
+                              <matrix>
+                                <Matrix tx="90.1" ty="74.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="13" y="7.05"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.25"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_91" selected="true">
+                              <matrix>
+                                <Matrix tx="90.4" ty="74.4"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="12.7" y="6.9"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.26953125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_90" selected="true">
+                              <matrix>
+                                <Matrix tx="90.65" ty="74.55"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="12.45" y="6.75"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.2890625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_89" selected="true">
+                              <matrix>
+                                <Matrix tx="90.95" ty="74.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="12.2" y="6.6"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.30859375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_88" selected="true">
+                              <matrix>
+                                <Matrix tx="91.2" ty="74.8"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="11.9" y="6.5"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.328125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_87" selected="true">
+                              <matrix>
+                                <Matrix tx="91.4" ty="75"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="11.7" y="6.3"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.3515625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_86" selected="true">
+                              <matrix>
+                                <Matrix tx="91.65" ty="75.1"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="11.45" y="6.2"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.37109375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_85" selected="true">
+                              <matrix>
+                                <Matrix tx="91.95" ty="75.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="11.15" y="6.05"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.390625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_84" selected="true">
+                              <matrix>
+                                <Matrix tx="92.2" ty="75.4"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="10.9" y="5.9"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.41015625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_83" selected="true">
+                              <matrix>
+                                <Matrix tx="92.45" ty="75.55"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="10.65" y="5.75"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.4296875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_82" selected="true">
+                              <matrix>
+                                <Matrix tx="92.7" ty="75.65"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="10.4" y="5.65"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.44921875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_81" selected="true">
+                              <matrix>
+                                <Matrix tx="93" ty="75.8"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="10.1" y="5.5"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.46875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_80" selected="true">
+                              <matrix>
+                                <Matrix tx="93.25" ty="76"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="9.85" y="5.3"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.48828125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_79" selected="true">
+                              <matrix>
+                                <Matrix tx="93.5" ty="76.05"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="9.6" y="5.2"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.51171875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_78" selected="true">
+                              <matrix>
+                                <Matrix tx="93.75" ty="76.2"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="9.35" y="5.05"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.53125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_77" selected="true">
+                              <matrix>
+                                <Matrix tx="94" ty="76.35"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="9.1" y="4.95"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.55078125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_76" selected="true">
+                              <matrix>
+                                <Matrix tx="94.25" ty="76.5"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="8.85" y="4.8"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.5703125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_75" selected="true">
+                              <matrix>
+                                <Matrix tx="94.55" ty="76.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="8.55" y="4.65"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.58984375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_74" selected="true">
+                              <matrix>
+                                <Matrix tx="94.75" ty="76.8"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="8.35" y="4.5"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.609375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_73" selected="true">
+                              <matrix>
+                                <Matrix tx="95" ty="76.95"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="8.1" y="4.35"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.62890625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_72" selected="true">
+                              <matrix>
+                                <Matrix tx="95.3" ty="77.05"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="7.8" y="4.25"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.6484375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_71" selected="true">
+                              <matrix>
+                                <Matrix tx="95.6" ty="77.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="7.5" y="4.05"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.671875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_70" selected="true">
+                              <matrix>
+                                <Matrix tx="95.85" ty="77.35"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="7.25" y="3.95"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.69140625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_69" selected="true">
+                              <matrix>
+                                <Matrix tx="96.1" ty="77.45"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="7" y="3.8"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.7109375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_68" selected="true">
+                              <matrix>
+                                <Matrix tx="96.35" ty="77.65"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="6.75" y="3.65"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.73046875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_67" selected="true">
+                              <matrix>
+                                <Matrix tx="96.6" ty="77.75"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="6.5" y="3.5"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.75"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_66" selected="true">
+                              <matrix>
+                                <Matrix tx="96.9" ty="77.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="6.2" y="3.4"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.76171875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_65" selected="true">
+                              <matrix>
+                                <Matrix tx="97.15" ty="78.05"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="5.95" y="3.25"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.78125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_64" selected="true">
+                              <matrix>
+                                <Matrix tx="97.4" ty="78.2"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="5.7" y="3.1"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.80078125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_63" selected="true">
+                              <matrix>
+                                <Matrix tx="97.65" ty="78.35"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="5.45" y="2.95"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.8203125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_62" selected="true">
+                              <matrix>
+                                <Matrix tx="97.9" ty="78.5"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="5.2" y="2.8"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.83984375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_61" selected="true">
+                              <matrix>
+                                <Matrix tx="98.15" ty="78.65"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="4.95" y="2.65"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.859375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_60" selected="true">
+                              <matrix>
+                                <Matrix tx="98.4" ty="78.75"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.87890625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_59" selected="true">
+                              <matrix>
+                                <Matrix tx="98.7" ty="78.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.8984375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_58" selected="true">
+                              <matrix>
+                                <Matrix tx="99" ty="79"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="4.15" y="2.25"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.921875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_57" selected="true">
+                              <matrix>
+                                <Matrix tx="99.2" ty="79.2"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.94140625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_56" selected="true">
+                              <matrix>
+                                <Matrix tx="99.45" ty="79.35"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.9609375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_55" selected="true">
+                              <matrix>
+                                <Matrix tx="99.75" ty="79.5"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.98046875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062_1" selected="true">
+                              <matrix>
+                                <Matrix tx="87.05" ty="73"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="17.4" y="9.7"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.2109375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_53" selected="true">
+                              <matrix>
+                                <Matrix tx="67.1" ty="56.75"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="27.8" y="17.6"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.171875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Group&amp;#062_0" selected="true">
+                              <matrix>
+                                <Matrix tx="86.4" ty="72.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="17.65" y="9.8"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.41015625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#333333" alpha="0"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="!1845 1517|1806 1502!1806 1502|1720 1458!1720 1458[1719 1457 1720 1455!1720 1455|1720 1443!1720 1443[1718 1391 1724 1343!1724 1343|1730 1302!1730 1302|1735 1343!1735 1343[1740 1410 1741 1443!1741 1443|1741 1446!1741 1446|1812 1493!1812
+ 1493[1833 1507 1845 1517"/>
+                                <Edge cubics="!1845 1517(;1845,1517 1830,1512 1806,1502q1845 1517 1806 1502)1806,1502;"/>
+                                <Edge cubics="!1720 1458(1720,1458;1719,1457 1719,1456 1720,1455q1720 1458Q1719 1457q1720 1455)1720,1455;"/>
+                                <Edge cubics="!1720 1455(1720,1455;1720,1455 1720,1443 1720,1443q1720 1455 1720 1443)1720,1443;"/>
+                                <Edge cubics="!1720 1443(1720,1443;1719,1410 1720,1377 1724,1343q1720 1443Q1718 1391q1724 1343)1724,1343;"/>
+                                <Edge cubics="!1724 1343(1724,1343;1725,1330 1727,1316 1730,1302q1724 1343 1730 1302)1730,1302;"/>
+                                <Edge cubics="!1730 1302(;1730,1302 1735,1343 1735,1343q1730 1302 1735 1343);"/>
+                                <Edge cubics="!1735 1343(1735,1343;1737,1369 1740,1403 1741,1443q1735 1343Q1740 1410q1741 1443);"/>
+                                <Edge cubics="!1741 1443(1741,1443;1741,1443 1741,1446 1741,1446q1741 1443 1741 1446)1741,1446;"/>
+                                <Edge cubics="!1812 1493(;1833,1507 1845,1517 1845,1517q1812 1493Q1833 1507q1845 1517)1845,1517;"/>
+                                <Edge cubics="!1806 1502(;1806,1502 1720,1458 1720,1458q1806 1502 1720 1458);"/>
+                                <Edge cubics="!1741 1446(;1741,1446 1812,1493 1812,1493q1741 1446 1812 1493);"/>
+                              </edges>
+                            </DOMShape>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_51" selected="true">
+                              <matrix>
+                                <Matrix tx="85.95" ty="65.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="3.1" y="5.25"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.01953125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_50_1" selected="true">
+                              <matrix>
+                                <Matrix tx="85.95" ty="65.35"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="3.05" y="5.2"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.0390625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_49_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86" ty="65.45"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="3" y="5.1"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.05859375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_48_1" selected="true">
+                              <matrix>
+                                <Matrix tx="85.95" ty="65.55"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.95" y="5.05"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.078125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_47_1" selected="true">
+                              <matrix>
+                                <Matrix tx="85.95" ty="65.65"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.9" y="4.95"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.1015625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_46_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86" ty="65.8"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.8" y="4.85"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.12109375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_45_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.1" ty="65.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.7" y="4.8"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.140625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_44_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.05" ty="65.95"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.7" y="4.75"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.16015625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_43_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.05" ty="66.1"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.65" y="4.6"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.1796875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_42_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.1" ty="66.2"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.55" y="4.55"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.19921875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_41_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.1" ty="66.35"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.5" y="4.45"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.21875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_40_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.1" ty="66.45"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.45" y="4.35"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.23828125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_39_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.1" ty="66.55"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.45" y="4.3"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.25"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_38_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.1" ty="66.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.4" y="4.2"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.26953125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_37_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.1" ty="66.75"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.35" y="4.1"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.2890625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_36_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.1" ty="66.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.3" y="4.05"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.30859375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_35_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.15" ty="67"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.2" y="3.95"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.328125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_34_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.15" ty="67.1"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.15" y="3.85"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.3515625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_33_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.15" ty="67.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.1" y="3.75"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.37109375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_32_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.15" ty="67.35"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2.05" y="3.7"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.390625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_31_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.15" ty="67.45"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="2" y="3.6"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.41015625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_30_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.2" ty="67.55"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.95" y="3.55"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.4296875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_29_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.2" ty="67.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.85" y="3.45"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.44921875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_28_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.2" ty="67.8"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.85" y="3.35"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.46875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_27_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.2" ty="67.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.8" y="3.3"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.48828125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_26_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.25" ty="68"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.7" y="3.2"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.51171875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_25_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.25" ty="68.15"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.65" y="3.1"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.53125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_24_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.25" ty="68.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.6" y="3"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.55078125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_23_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.25" ty="68.35"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.55" y="2.95"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.5703125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_22_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.25" ty="68.5"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.5" y="2.85"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.58984375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_21_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.3" ty="68.6"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.45" y="2.75"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.609375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_20_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.3" ty="68.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.4" y="2.7"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.62890625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_19_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.25" ty="68.8"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.4" y="2.6"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.6484375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_18_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.35" ty="68.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.3" y="2.55"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.671875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_17_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.3" ty="69"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.3" y="2.45"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.69140625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_16_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.35" ty="69.2"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.2" y="2.35"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.7109375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_15_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.3" ty="69.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.15" y="2.3"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.73046875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_14_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.35" ty="69.3"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.1" y="2.2"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.75"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_13_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.35" ty="69.45"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1.05" y="2.15"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.76171875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_12_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.35" ty="69.6"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="1" y="2"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.78125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_11_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.35" ty="69.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="0.95" y="1.95"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.80078125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_10_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.4" ty="69.8"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="0.85" y="1.85"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.8203125"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_9_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.4" ty="69.95"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="0.8" y="1.75"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.83984375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_8_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.4" ty="70"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="0.8" y="1.7"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.859375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_7_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.4" ty="70.15"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="0.7" y="1.6"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.87890625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_6_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.45" ty="70.25"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="0.6" y="1.55"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.8984375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_5_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.45" ty="70.4"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="0.6" y="1.45"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.921875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_4_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.4" ty="70.45"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.94140625"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_3_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.45" ty="70.65"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.9609375"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_2_1" selected="true">
+                              <matrix>
+                                <Matrix tx="86.45" ty="70.7"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.98046875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_0" selected="true">
+                              <matrix>
+                                <Matrix tx="64.05" ty="52.9"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="27.8" y="17.6"/>
+                              </transformationPoint>
+                              <color>
+                                <Color alphaMultiplier="0.171875"/>
+                              </color>
+                            </DOMSymbolInstance>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

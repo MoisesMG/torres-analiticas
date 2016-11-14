@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 11_cubo.svg Activos/Layer 1/&amp;#060Path&amp;#062_108" itemID="5829dc50-000003be" lastModified="1479138384">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062_108">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0748291015625" b="-0.0167999267578125" c="0.00762939453125" d="0.033599853515625" tx="93.35" ty="3.75"/>
+                        </matrix>
+                        <GradientEntry color="#515152" ratio="0.0196078431372549"/>
+                        <GradientEntry color="#515152" alpha="0.956862745098039" ratio="0.270588235294118"/>
+                        <GradientEntry color="#515152" alpha="0.847058823529412" ratio="0.450980392156863"/>
+                        <GradientEntry color="#515152" alpha="0.658823529411765" ratio="0.611764705882353"/>
+                        <GradientEntry color="#515152" alpha="0.388235294117647" ratio="0.76078431372549"/>
+                        <GradientEntry color="#515152" alpha="0.0392156862745098" ratio="0.909803921568627"/>
+                        <GradientEntry color="#515152" alpha="0" ratio="0.92156862745098"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1983 13[1512 -8 1030 4!1030 4[66 27 14 189!14 189[-45 373 131 515!131 515[296 647 503 637!503 637[662 630 1450 532!1450 532[1844 483 2206 435!2206 435|1983 13"/>
+                    <Edge cubics="!1983 13(;1983,13 97,-71 14,189q1983 13Q1512 -8q1030 4Q66 27q14 189);"/>
+                    <Edge cubics="!14 189(14,189;-70,449 248,649 503,637q14 189Q-45 373q131 515Q296 647q503 637)503,637;"/>
+                    <Edge cubics="!503 637(503,637;757,626 2206,435 2206,435q503 637Q662 630q1450 532Q1844 483q2206 435);"/>
+                    <Edge cubics="!2206 435(;2206,435 1983,13 1983,13q2206 435 1983 13);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Recurso 26_boton ir a niveles resultados hover.svg Activos/Layer 1/&amp;#060Group&amp;#062" itemID="5829dc71-0000058f" lastModified="1479138417">
+  <timeline>
+    <DOMTimeline name="&amp;#060Group&amp;#062">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMStaticText selected="true" width="65.85" height="34.3" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix ty="-4.45"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Ir a ni</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="5.3" lineHeight="34.3" size="26.5" bitmapSize="530" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText selected="true" width="12.95" height="34.3" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="65.65" ty="-4.45"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>v</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="5.3" lineHeight="34.3" size="26.5" bitmapSize="530" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText selected="true" width="45.9" height="34.3" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="78.15" ty="-4.45"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>eles</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="5.3" lineHeight="34.3" size="26.5" bitmapSize="530" face="PTSans-Regular" fillColor="#00FF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
